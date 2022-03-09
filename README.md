@@ -15,8 +15,8 @@
 - 단국대학교 소프트웨어학과 졸업 (2022)
 
 ### Side Project
-- drowsiness classification
-- cryptocurrency autotrading
+- face recognition drowsiness detection
+- cryptocurrency trend analysis
 
 ### contact
 - agilestar8@gmail.com
