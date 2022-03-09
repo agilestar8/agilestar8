@@ -3,11 +3,9 @@
 ### Data Analyst & Software Engineer
 - 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2021.2
 - CDS 전문가 교육 2020. 08
-- example..
 
 ### Interest
 - Machine learing
-- Image processing
 - Computer Vision
 - NLP
 
