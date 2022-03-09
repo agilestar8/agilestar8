@@ -18,6 +18,8 @@
 - drowsiness classification
 - cryptocurrency autotrading
 
-
+### contact
+- agilestar8@gmail.com
+  
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0071C5?style=plastic&logo=PYTHON&logoColor=white)
 ![Gmail badge](https://img.shields.io/badge/Gmail-d14836?style=flat-sqaure&logo=Gmail&logoColor=white )
