@@ -3,12 +3,13 @@
 ### Data Analyst & Software Engineer
 - 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2021.2
 - CDS 전문가 교육 2020. 08
-- SK쉴더스 루키즈 2022. 04 ~ 
+- SK쉴더스 루키즈 2022. 04 ~ 05
+- LG전자 VS사업본부 인턴 2022. 06 ~
 
 ### Interest
 - Machine learing
 - Computer Vision
-- NLP
+- Security
 
 ### career
 - 1기 전국대학교 CDS 빅데이터 전문가 과정 수료 (2020)
